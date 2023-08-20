@@ -1,0 +1,18 @@
+.container{
+    border: 5px solid blue;
+}
+.box1{
+    background-color: orange;
+}
+.box2{
+    background-color: orangered;
+}
+.box3{
+    background-color: cadetblue;
+}
+.box4{
+    background-color: green;
+}
+.box5{
+    background-color: blueviolet;
+}

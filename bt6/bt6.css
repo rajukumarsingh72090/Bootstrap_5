@@ -1,0 +1,21 @@
+.container{
+    border: 5px solid blue;
+}
+.col{
+    background-color: yellow;
+}
+.row{
+    border: 5px solid purple;
+}
+.box1{
+    background-color: orange;
+}
+.box2{
+    background-color: orangered;
+}
+.box3{
+    background-color: cadetblue;
+}
+.box4{
+    background-color: chartreuse;
+}

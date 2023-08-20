@@ -1,0 +1,19 @@
+.container{
+    border: 5px solid blue;
+}
+.col{
+    min-height: 250px;
+    background-color: yellow;
+}
+.box1{
+    background-color: orange;
+}
+.box2{
+    background-color: orangered;
+}
+.box3{
+    background-color: cadetblue;
+}
+.box4{
+    background-color: chartreuse;
+}

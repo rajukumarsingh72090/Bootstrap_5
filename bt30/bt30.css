@@ -1,0 +1,7 @@
+.border-custom{
+    border: 5px solid green;
+}
+
+.shadow-custom{
+    box-shadow: 0px 2px 10px red;
+}

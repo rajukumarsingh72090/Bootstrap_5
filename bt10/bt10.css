@@ -1,0 +1,20 @@
+.container{
+    border: 5px solid blue;
+}
+.col{
+    background-color: yellow;
+}
+.row{
+    border: 5px solid purple;
+}
+.box1{
+    background-color: orange;
+    font-size: 20px;
+}
+.box2{
+    background-color: orangered;
+    font-size: 22px;
+}
+.box3{
+    background-color: cadetblue;
+}
